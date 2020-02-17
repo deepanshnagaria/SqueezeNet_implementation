@@ -1,0 +1,2 @@
+# SqueezeNet_implementation
+Implemented SqueezeNet model architecture
